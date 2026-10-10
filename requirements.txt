@@ -1,0 +1,6 @@
+streamlit
+openai
+pytesseract
+pdfplumber
+pdf2image
+pillow
